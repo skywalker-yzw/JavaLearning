@@ -1,0 +1,7 @@
+Obama visited Facebook headquarters: http://bit.ly/xyz @elversatile @easywu
+
+positions 14 through 22 -> Entity
+positions 0 through 5 -> Entity
+positions 55 through 67 -> Twitter username
+positions 37 through 54 -> Link
+positions 68 through 75 -> Twitter username
