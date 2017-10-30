@@ -31,6 +31,7 @@ public class HashCode {
         @Override
         public int hashCode(){
             int hash = 31;
+            // this just a simple way to calculate the hash code for the object
             hash = 7 * hash + this.firstName.hashCode();
             hash = 7 * hash + this.lastName.hashCode();
             return hash;
